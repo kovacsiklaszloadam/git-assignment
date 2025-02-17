@@ -1,2 +1,2 @@
 This is a text file for the Git assignment
-
+This is the edited file
